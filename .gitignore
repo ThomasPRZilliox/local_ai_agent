@@ -205,3 +205,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+/.adk/
+/sql_agent/.adk/
+/dice_agent/.adk/
+/sql_agent/recipes.db
